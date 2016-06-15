@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paySetting>
+    <!-- 基础配置， 每个渠道copy一份，当前仅作为示例使用-->
+	<base>
+		<TwAppId>10001</TwAppId>
+		<splashTwScreen>true</splashTwScreen>
+		<splashChannelScreen>true</splashChannelScreen>
+		<TwAppKey>9f6adc2f-00ba-4ec1-a3fa-e7196e3eaccf</TwAppKey>
+		<SDKVERSION>2.0.0</SDKVERSION>
+		<spName>拓维信息系统股份有限公司</spName>
+		<telephone>4008932088</telephone>
+		<DeclareMsg>本游戏版权归拓维信息系统股份有限公司所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场。</DeclareMsg>
+		<channelClass>com.talkweb.twOfflineSdk.TalkwebProxy</channelClass>
+	</base>
+	<channel>
+		<channelId>10001</channelId>
+		<channelSpell>Oppo</channelSpell>
+		<channelSdkVersion>2.0.0</channelSdkVersion>
+	</channel>
+</paySetting>

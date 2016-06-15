@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/none"
+    android:orientation="vertical" >
+
+   <!--  <include
+        android:id="@+id/loginView"
+        layout="@layout/tw_ol_login_view"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/regView"
+        layout="@layout/tw_ol_reg_view"
+        android:visibility="gone" /> -->
+
+    <include
+        android:id="@+id/payView"
+        layout="@layout/ks_offline_pay_view"
+        android:visibility="gone" />
+
+    <!-- <include
+        android:id="@+id/checkPwdView"
+        layout="@layout/tw_ol_checkpwd_view"
+        android:visibility="gone" /> -->
+
+    <ImageView
+        android:id="@+id/closeImg"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="top|right"
+        android:src="@drawable/ks_close" />
+
+</FrameLayout>

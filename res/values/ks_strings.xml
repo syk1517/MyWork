@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- init -->
+    <string name="init">Copyright @ 2007-2015 TALKWEB.COM ALL Right Reserved</string>
+    <!-- login -->
+    <string name="moblie_register">手机注册</string>
+     <string name="register">注  册</string>
+    <string name="one_key_register">一键注册</string>
+    <string name="forgetPassword">忘记密码</string>
+    <string name="login">登  录</string>
+    <string name="payType">支付方式</string>
+    <string name="inputAccount">手机号/用户名</string>
+    <string name="inputPassword">密码</string>
+    <string name="login_msg_null">用户名、密码或验证码不能为空</string>
+    <string name="no_interent">请连网再试</string>
+    <string name="login_no_phone">请输入正确的手机号</string>
+    <string name="system_busy">系统忙，请重试</string>
+    <string name="interent_busy">网络忙，请重试</string>
+    <string name="sure">确认</string>
+    <string name="indentifyCode_error">请输入正确的验证码</string>
+     <string name="indentifyCode">请输入验证码</string>
+     <string name="logining">登录中...</string>
+     <string name="modifyPwdFail">修改密码失败</string>
+    <!-- reg -->
+    <string name="inputMoblieNum">手机号</string>
+    <string name="getVerifyCode">获取验证码</string>
+    <string name="waitVerifyCode">秒后重新获取</string>
+    <string name="inputVerifyCode">验证码</string>
+    <string name="pwdToShort">密码长度太短，必需大于6位</string>
+    <string name="error_phone">您输入的手机号码有误</string>
+     <string name="registering">注册中...</string>
+    <!-- pay -->
+    <string name="payCenter">支付中心</string>
+    <string name="orderAmount">订单金额：</string>
+    <string name="appName">游戏名称：</string>
+    <string name="xuxian">--------------------------------------------------------------------------------------------------------------</string>
+    <string name="userId">用&#160;户&#160;名&#160;：</string>
+    <string name="yuan">￥ </string>
+    <string name="selectPayType">请选择支付方式：</string>
+
+    <!-- findPassword -->
+    <string name="findPassword">找回密码</string>
+    <string name="changePassword">修改密码</string>
+    <string name="accountName">用户名：</string>
+    <string name="userName">昵称</string>
+    <string name="accountPwd">密&#160;&#160;&#160;&#160;码：</string>
+    <string name="inputNewPwd">请输入新密码</string>
+    <!-- userCenter -->
+    <string name="userCenter">主页</string>
+    <string name="startGame">进入游戏</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_color">#f9f9f9</color>
+    <color name="orange_color">#f48b0e</color>
+    <color name="none">#00000000</color>
+    <color name="line_color">#e4e4e4</color>
+    <color name="payAppNameAndUid_color">#979797</color>
+    <color name="blue">#2c94d3</color>
+    <color name="red">#ec5818</color>
+    <color name="black">#333333</color>
+    <color name="hui">#666666</color>
+    <color name="white">#ffffff</color>
+    <color name="title_color">#f4f4f4</color>
+    <color name="half_none">#e0ffffff</color>
+
+</resources>

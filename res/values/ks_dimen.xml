@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="all_pading">15dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="title_pading">2dp</dimen>
+
+    <!-- init -->
+    <dimen name="initTxtSize">8sp</dimen>
+
+    <!-- reg -->
+    <dimen name="edtmargin">8dp</dimen>
+    <dimen name="txtmargin">5dp</dimen>
+    <!-- login -->
+    <dimen name="edt_hei">46dp</dimen>
+    <dimen name="edt_hei_port">40dp</dimen>
+    <dimen name="login_logo">120dp</dimen>
+    <dimen name="login_logo_port_pading">32dp</dimen>
+
+    <!-- pay -->
+    <dimen name="pay_port_left_right">60dp</dimen>
+    <dimen name="btn_radiu">8dp</dimen>
+    <dimen name="popupTxtSize">10sp</dimen>
+
+</resources>
